@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/dreackdown">
-  <img height="150em" src="https://c.tenor.com/yFfpElZakToAAAAC/pcmr-pc-master-race.gif"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreackdown&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img align="left" height="150em" src="https://c.tenor.com/yFfpElZakToAAAAC/pcmr-pc-master-race.gif"/>
+  <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreackdown&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
   </div>
@@ -22,6 +22,5 @@
 <div> 
      <a href="https://twitter.com/hugovrau" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/hugofaria157/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-    <a href="https://instagram.com/hugovrau" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
