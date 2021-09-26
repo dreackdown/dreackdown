@@ -1,7 +1,7 @@
 ### 
 
 - 🔭 Hoje trabalho com back-end
-- 🌱 Estudando Javascript e C#
+- 🌱 Consolidando conhecimentos em Javascript e C#
 
 <div align="center">
   <a href="https://github.com/dreackdown">
