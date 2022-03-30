@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://github.com/dreackdown">
   <img height="150em" src="https://c.tenor.com/aOGrDnlny-YAAAAC/pc-master.gif"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreackdown&layout=compact&langs_count=15&theme=midnight-purple"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreackdown&layout=compact&langs_count=15&theme=midnight-purple&count_private=true"/>
 </div>
  
   <br>
