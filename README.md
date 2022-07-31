@@ -2,7 +2,7 @@
 
 <div align="center">
   <p> 🔭 Hoje trabalho com back-end </p>
-  <p> 🌱 Consolidando conhecimentos em FullStack Node-React </p>
+  <p> 🌱 Consolidando conhecimentos em ASP .NET Core e ReactJS </p>
 </div>
 
 <div align="center">
